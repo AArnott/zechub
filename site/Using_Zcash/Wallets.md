@@ -14,15 +14,15 @@
 ![logo](https://i.ibb.co/z4QxCWp/ywalletcard.png "Ywallet")
 - Devices: Mobile | Desktop
 - Pools: Transparent | Sapling | Orchard 
-- Features: WarpSync | Shielded Memo | Unified Address | Cold Storage | Voting 
+- Features: WarpSync | Shielded Memo | Unified Address | Cold Storage | Voting | Pool Transfer
 
 ---
 
 ## [Dizzy](https://youtu.be/IVkuo1CGPBU)
 ![logo](https://i.ibb.co/FH918w9/Dizzy-3.png "Dizzy")
-- Devices: Discord Bot
+- Devices: Mobile | Desktop
 - Pools: Sapling | Orchard
-- Features: Unified Address
+- Features: Discord Bot | Unified Address
 
 ---
 
@@ -31,14 +31,6 @@
 - Devices: Mobile 
 - Pools: Transparent | Sapling | Orchard 
 - Features: BlazeSync | Shielded Memo | Financial Insights | Unified Address
-
----
-
-## [Nighthawk - Not Maintained](https://nighthawkwallet.com)
-![logo](https://i.ibb.co/vL2FxGk/nighthawkcard.png "Nighthawk")
-- Devices: Mobile 
-- Pools: Transparent | Sapling 
-- Features: Spend before Sync | Unified Address | Shielded memo 
 
 ---
 
@@ -151,3 +143,12 @@
 - Devices: Hardware
 - Pools: Transparent | (in-development) 
 - Features: Synchronizer | Multi Coin
+
+---
+
+## Nighthawk - Not Maintained Anymore!
+### Restore you wallet in Zashi
+![logo](https://i.ibb.co/vL2FxGk/nighthawkcard.png "Nighthawk")
+- Devices: Mobile 
+- Pools: Transparent | Sapling 
+- Features: Spend before Sync | Unified Address | Shielded memo 
